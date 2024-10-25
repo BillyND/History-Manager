@@ -1,0 +1,10 @@
+.env
+
+.cache
+.vscode
+.history
+.DS_Store
+.husky/pre-commit
+public/exports
+
+node_modules
